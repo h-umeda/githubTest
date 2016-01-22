@@ -1,6 +1,6 @@
 ---
 style: default
-tytle: documentation
+title: documentation
 ---
 
 ## Documentation
